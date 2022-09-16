@@ -33,3 +33,21 @@
 #menu-menu-du-footer .menu-item a {
     color: #888;
 }
+
+.wp-container-1{
+    align-self: start;
+    margin-right: 5rem !important;
+}
+
+.wpforms-field-container{
+    /* alignez en haut */
+    align-items: flex-start;
+}
+
+.newsShows {
+    display: flex;
+    justify-content: center;
+    color : white;
+    flex-wrap: wrap;
+    font-size: 10rem;
+}

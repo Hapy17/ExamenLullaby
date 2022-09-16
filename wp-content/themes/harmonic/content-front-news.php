@@ -42,6 +42,8 @@
 			data-anchor-target="#slide-2">
 
 				<div id="news-section">
+					<h1 class="newsShows">Concerts</h1>
+					<hr>
 					<?php
 					$sticky = get_option( 'sticky_posts' );
 
