@@ -66,6 +66,6 @@ if ( ! function_exists( 'harmonic_posted_on' ) ) :
      * Prints HTML with meta information for the current post-date/time and author.
      */
     function harmonic_posted_on() {
-       echo get_the_tag_list('|', ' | ', '|');
+       echo get_the_tag_list('', ' | ' );
     }
     endif;
