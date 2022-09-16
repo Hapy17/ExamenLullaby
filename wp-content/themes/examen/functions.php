@@ -57,8 +57,6 @@ add_action('after_setup_theme', 'examen_load_text_domain');
  * @see https://developer.wordpress.org/reference/functions/register_nav_menus/
  */
 function examen_add_menu() : void {
-    register_nav_menus([
-        'footer' => __('Footer Menu', 'examen'),
-    ]);
+    register_nav_menu('footer', __('Footer menu', 'examen'));
 }
 add_action('init', 'examen_add_menu');

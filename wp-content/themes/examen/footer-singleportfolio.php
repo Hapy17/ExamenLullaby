@@ -8,13 +8,14 @@
  */
 ?>
 
-					<div class="clear"></div>
-				</div><!-- #content .site-wrapper -->
-			</div><!-- #content-wrapper -->
+						<div class="clear"></div>
+					</div><!-- #content .site-wrapper -->
+				</div><!-- #content-wrapper -->
+			</div>
 			<footer id="colophon" class="site-footer" role="contentinfo">
 
 				<div class="site-info">
-					<?php _e("Examen 2022 © All rights reserverd.", "examen")?>
+					<?php _e("Examen 2022 © All rights reserverd.", "examen")?>				
 				</div><!-- .site-info -->
 
 			</footer><!-- #colophon .site-footer -->

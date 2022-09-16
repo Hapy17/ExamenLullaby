@@ -10,3 +10,26 @@
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
+
+#footer-nav-wrapper {
+    font-size : 1.4rem;
+}
+
+#menu-menu-du-footer {
+    height: 60px;
+    padding :22px 20px 20px 0px;
+    margin-bottom: 0rem;
+    list-style: none;
+    display: flex;
+    float: left;
+    align-items: center;
+}
+
+#menu-menu-du-footer .menu-item {
+    margin-right: 1.2rem;
+    
+}
+
+#menu-menu-du-footer .menu-item a {
+    color: #888;
+}

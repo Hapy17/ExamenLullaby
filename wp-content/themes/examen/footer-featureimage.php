@@ -8,9 +8,13 @@
  */
 ?>
 
-					<div class="clear"></div>
-				</div><!-- #content .site-wrapper -->
-			</div><!-- #content-wrapper -->
+							</div><!-- #content .site-wrapper -->
+							<div class="clear"></div>
+						</div><!-- #content-wrapper -->
+					</section><!-- #slide-content .slide -->
+				</div>
+			</main>
+
 			<footer id="colophon" class="site-footer" role="contentinfo">
 
 				<div class="site-info">
@@ -19,7 +23,6 @@
 
 			</footer><!-- #colophon .site-footer -->
 		</div><!-- #page -->
-
 		<?php wp_footer(); ?>
 	</body>
 </html>
